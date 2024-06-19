@@ -1,6 +1,13 @@
 # Minesweeper
 
+![image](https://github.com/01cheese/minesweeper/assets/115219323/273c50f3-8290-4585-941f-5f725613e737)
+
+
 This project is a Minesweeper game built using Pygame and Pygame Menu. The game allows users to select different difficulty levels, including a custom mode where they can specify the grid size and the number of mines.
+
+
+![image](https://github.com/01cheese/minesweeper/assets/115219323/d903b451-0d5b-424a-b71d-b1016e9a5e73)
+
 
 ## Features
 
